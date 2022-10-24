@@ -1,0 +1,42 @@
+
+.navbar-brand{
+    padding-left: 3em;
+    }
+    
+    .ehb{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        width: 70%;
+        margin: auto;
+    }
+    
+    .ehbButton{
+    
+        width: 30%;
+        margin: auto;
+    }
+    
+    .ehbButton a{
+        margin-left: 3em;
+        margin-bottom: 3em;
+    }
+    
+    .ehb img{
+        width: 40%;
+        margin: auto;
+    }
+    
+    .proSec{
+        padding-left: 3em;
+        
+    }
+     .product{
+         
+         padding: 30px;
+         border-radius: 15px;
+         background-color: rgb(240, 240, 240);
+            width: 30%;
+      
+        
+     }
